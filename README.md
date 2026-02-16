@@ -16,9 +16,6 @@
 - [Pong-Ball-Game](https://github.com/Madeeha7575/Pong-Ball-Game) → Pong game using Python & Pygame  
 - [Roman-number-to-Integer](https://github.com/Madeeha7575/Roman-number-to-Integer) → Simple program to convert Roman numerals to integers  
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madeeha7575&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/madeeha-khan-97825b344/  
 - Email: madeeha.khan0008@gmail.com 
