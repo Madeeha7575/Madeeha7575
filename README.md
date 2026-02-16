@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Madeeha 👩‍💻
 
-<!--
-**Madeeha7575/Madeeha7575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Engineering Student (Semester 2)  
+🌱 Currently learning Python and exploring C programming basics  
+💡 Interested in building small projects to strengthen my fundamentals  
+📚 Starting my journey into Data Structures, Algorithms, and Machine Learning  
 
-Here are some ideas to get you started:
+## 🔧 Skills (Learning & Practicing)
+- Languages: Python, C  
+- Libraries: Pygame, NumPy (beginner level)  
+- Interests: Problem-solving, beginner projects, learning step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Python-Projects-Sem1](https://github.com/Madeeha7575/Python-Projects-Sem1) → Beginner-friendly Python projects I built before starting college  
+- [Rock-Paper-Scissors-c](https://github.com/Madeeha7575/Rock-Paper-Scissors-c) → Classic game built in C  
+- [Pong-Ball-Game](https://github.com/Madeeha7575/Pong-Ball-Game) → Pong game using Python & Pygame  
+- [Roman-number-to-Integer](https://github.com/Madeeha7575/Roman-number-to-Integer) → Simple program to convert Roman numerals to integers  
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madeeha7575&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/madeeha-khan-97825b344/  
+- Email: madeeha.khan0008@gmail.com 
