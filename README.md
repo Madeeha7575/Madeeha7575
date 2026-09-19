@@ -1,6 +1,6 @@
 # Hi, I'm Madeeha 👩‍💻
 
-🎓 AIML Engineering Student (Semester 2)  
+🎓 AIML Engineering Student (Semester 3)  
 🌱 Currently learning Python and exploring C programming basics  
 💡 Interested in building small projects to strengthen my fundamentals  
 📚 Starting my journey into Data Structures, Algorithms, and Machine Learning  
