@@ -2,7 +2,7 @@ Hi, I'm Madeeha Khan 👋
 I'm an undergraduate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 My interests include Machine Learning, Embedded Systems, Software Development, and building practical technology solutions using Python and Raspberry Pi.
 
-Languages:
+**Languages:**
 
 Python
 
@@ -12,7 +12,7 @@ C++
 
 HTML
 
-Tools & Platforms:
+**Tools & Platforms:**
 
 Git
 
@@ -20,7 +20,7 @@ GitHub
 
 Raspberry Pi
 
-Currently Exploring:
+**Currently Exploring:**
 
 NumPy
 
@@ -30,7 +30,7 @@ Data Analysis
 
 Machine Learning Fundamentals
 
-🔍 Areas of Interest:
+**Areas of Interest:**
 
 Machine Learning
 
@@ -40,7 +40,7 @@ Natural Language Processing
 
 Embedded Systems
 
-📂 Projects
+📂 **Projects**
 *Security Alert System*
 A security-focused monitoring and alert system.
 
@@ -53,7 +53,7 @@ Traffic control simulation using Raspberry Pi and LEDs.
 *Raspberry Pi Buzzer Project*
 Embedded systems project using GPIO programming.
 
-📫 Connect With Me:
+📫 **Connect With Me:**
 
 📧 Email: madeeha.khan0008@gmail.com
 💼 LinkedIn: https://linkedin.com/in/madeeha-khan
