@@ -66,6 +66,6 @@ Embedded systems project using GPIO programming.
 
 📧 Email: madeeha.khan0008@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/madeeha-khan
+💼 LinkedIn: https://www.linkedin.com/in/madeeha-khan-97825b344/
 
 💻 GitHub: https://github.com/Madeeha7575
