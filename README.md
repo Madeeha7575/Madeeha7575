@@ -5,27 +5,39 @@ My interests include Machine Learning, Embedded Systems, Software Development, a
 Languages:
 
 Python
+
 C
+
 C++
+
 HTML
 
 Tools & Platforms:
 
 Git
+
 GitHub
+
 Raspberry Pi
 
 Currently Exploring:
 
 NumPy
+
 Pandas
+
 Data Analysis
+
 Machine Learning Fundamentals
 
 🔍 Areas of Interest:
+
 Machine Learning
+
 Computer Vision
+
 Natural Language Processing
+
 Embedded Systems
 
 📂 Projects
