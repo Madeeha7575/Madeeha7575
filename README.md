@@ -1,21 +1,47 @@
-# Hi, I'm Madeeha 👩‍💻
+Hi, I'm Madeeha Khan 👋
+I'm an undergraduate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+My interests include Machine Learning, Embedded Systems, Software Development, and building practical technology solutions using Python and Raspberry Pi.
 
-🎓 AIML Engineering Student (Semester 3)  
-🌱 Currently learning Python and exploring C programming basics  
-💡 Interested in building small projects to strengthen my fundamentals  
-📚 Starting my journey into Data Structures, Algorithms, and Machine Learning  
+Languages:
+Python
+C
+C++
+HTML
 
-## 🔧 Skills (Learning & Practicing)
-- Languages: Python, C  
-- Libraries: Pygame, NumPy (beginner level)  
-- Interests: Problem-solving, beginner projects, learning step by step  
+Tools & Platforms:
 
-## 📂 Featured Projects
-- [Python-Projects-Sem1](https://github.com/Madeeha7575/Python-Projects-Sem1) → Beginner-friendly Python projects I built before starting college  
-- [Rock-Paper-Scissors-c](https://github.com/Madeeha7575/Rock-Paper-Scissors-c) → Classic game built in C  
-- [Pong-Ball-Game](https://github.com/Madeeha7575/Pong-Ball-Game) → Pong game using Python & Pygame  
-- [Roman-number-to-Integer](https://github.com/Madeeha7575/Roman-number-to-Integer) → Simple program to convert Roman numerals to integers  
+Git
+GitHub
+Raspberry Pi
 
-## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/madeeha-khan-97825b344/  
-- Email: madeeha.khan0008@gmail.com 
+Currently Exploring:
+
+NumPy
+Pandas
+Data Analysis
+Machine Learning Fundamentals
+
+🔍 Areas of Interest:
+Machine Learning
+Computer Vision
+Natural Language Processing
+Embedded Systems
+
+📂 Projects
+*Security Alert System*
+A security-focused monitoring and alert system.
+
+*Raspberry Pi Light Alert System*
+Sensor-based automation project using Raspberry Pi.
+
+*Raspberry Pi Traffic Light Simulation*
+Traffic control simulation using Raspberry Pi and LEDs.
+
+*Raspberry Pi Buzzer Project*
+Embedded systems project using GPIO programming.
+
+📫 Connect With Me:
+
+📧 Email: madeeha.khan0008@gmail.com
+💼 LinkedIn: https://linkedin.com/in/madeeha-khan
+💻 GitHub: https://github.com/Madeeha7575
